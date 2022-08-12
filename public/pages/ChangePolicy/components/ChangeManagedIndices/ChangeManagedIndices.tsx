@@ -114,7 +114,7 @@ export default class ChangeManagedIndices extends Component<ChangeManagedIndices
 
           <EuiFormRow label="State filters" helpText="Apply new policy only on managed indices in these states.">
             <EuiComboBox
-              isDisabled={!selectedManagedIndices.length}
+              isDisabled={!selectedManagedIndices.length >= 1}
               placeholder="Choose state filters"
               options={stateOptions}
               selectedOptions={selectedStateFilters}

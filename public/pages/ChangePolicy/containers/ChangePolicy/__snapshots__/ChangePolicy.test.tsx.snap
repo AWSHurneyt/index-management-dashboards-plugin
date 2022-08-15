@@ -148,7 +148,8 @@ exports[`<ChangePolicy /> spec renders the component 1`] = `
               aria-describedby="some_html_id-help-0"
               aria-expanded="false"
               aria-haspopup="listbox"
-              class="euiComboBox euiComboBox-isDisabled"
+              class="euiComboBox"
+              disabled=""
               role="combobox"
             >
               <div
@@ -158,7 +159,7 @@ exports[`<ChangePolicy /> spec renders the component 1`] = `
                   class="euiFormControlLayout__childrenWrapper"
                 >
                   <div
-                    class="euiComboBox__inputWrap"
+                    class="euiComboBox__inputWrap euiComboBox__inputWrap-isClearable"
                     data-test-subj="comboBoxInput"
                     tabindex="-1"
                   >
@@ -174,7 +175,6 @@ exports[`<ChangePolicy /> spec renders the component 1`] = `
                       <input
                         aria-controls=""
                         data-test-subj="comboBoxSearchInput"
-                        disabled=""
                         id="some_html_id"
                         role="textbox"
                         style="box-sizing: content-box; width: 2px;"
@@ -192,7 +192,6 @@ exports[`<ChangePolicy /> spec renders the component 1`] = `
                       aria-label="Open list of options"
                       class="euiFormControlLayoutCustomIcon euiFormControlLayoutCustomIcon--clickable"
                       data-test-subj="comboBoxToggleListButton"
-                      disabled=""
                       type="button"
                     >
                       <svg

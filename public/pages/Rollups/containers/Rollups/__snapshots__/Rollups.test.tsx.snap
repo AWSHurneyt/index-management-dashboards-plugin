@@ -38,16 +38,7 @@ exports[`<Rollups /> spec renders the component 1`] = `
               <span
                 class="euiButtonContent euiButton__content"
               >
-                <svg
-                  aria-hidden="true"
-                  class="euiIcon euiIcon--medium euiIcon--inherit euiIcon-isLoading euiButtonContent__icon"
-                  focusable="false"
-                  height="16"
-                  role="img"
-                  viewBox="0 0 16 16"
-                  width="16"
-                  xmlns="http://www.w3.org/2000/svg"
-                />
+                EuiIconMock
                 <span
                   class="euiButton__text"
                 >
@@ -116,16 +107,7 @@ exports[`<Rollups /> spec renders the component 1`] = `
                   <span
                     class="euiButtonContent euiButtonContent--iconRight euiButton__content"
                   >
-                    <svg
-                      aria-hidden="true"
-                      class="euiIcon euiIcon--medium euiIcon--inherit euiIcon-isLoading euiButtonContent__icon"
-                      focusable="false"
-                      height="16"
-                      role="img"
-                      viewBox="0 0 16 16"
-                      width="16"
-                      xmlns="http://www.w3.org/2000/svg"
-                    />
+                    EuiIconMock
                     <span
                       class="euiButton__text"
                     >
@@ -186,16 +168,7 @@ exports[`<Rollups /> spec renders the component 1`] = `
                 <span
                   class="euiFormControlLayoutCustomIcon"
                 >
-                  <svg
-                    aria-hidden="true"
-                    class="euiIcon euiIcon--medium euiIcon-isLoading euiFormControlLayoutCustomIcon__icon"
-                    focusable="false"
-                    height="16"
-                    role="img"
-                    viewBox="0 0 16 16"
-                    width="16"
-                    xmlns="http://www.w3.org/2000/svg"
-                  />
+                  EuiIconMock
                 </span>
               </div>
             </div>
@@ -258,16 +231,7 @@ exports[`<Rollups /> spec renders the component 1`] = `
                         <span
                           class="euiButtonContent euiButtonContent--iconRight euiButtonEmpty__content"
                         >
-                          <svg
-                            aria-hidden="true"
-                            class="euiIcon euiIcon--small euiIcon--inherit euiIcon-isLoading euiButtonContent__icon"
-                            focusable="false"
-                            height="16"
-                            role="img"
-                            viewBox="0 0 16 16"
-                            width="16"
-                            xmlns="http://www.w3.org/2000/svg"
-                          />
+                          EuiIconMock
                           <span
                             class="euiButtonEmpty__text"
                           >
@@ -337,16 +301,7 @@ exports[`<Rollups /> spec renders the component 1`] = `
                       >
                         Name
                       </span>
-                      <svg
-                        aria-hidden="true"
-                        class="euiIcon euiIcon--medium euiIcon-isLoading euiTableSortIcon"
-                        focusable="false"
-                        height="16"
-                        role="img"
-                        viewBox="0 0 16 16"
-                        width="16"
-                        xmlns="http://www.w3.org/2000/svg"
-                      />
+                      EuiIconMock
                     </span>
                   </button>
                 </th>
